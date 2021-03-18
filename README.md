@@ -22,3 +22,9 @@ Extend your analysis from Task 1 to help you identify benchmark stores that allo
 
 Task 3: Analytics and commercial application
 Use your analytics and insights from Task 1 and 2 to prepare a report for your client, the Category Manager.
+
+
+## General Electric Digital Technology Data Analytics
+Task1: Data Engineering
+
+Task 2: Data Visualization
