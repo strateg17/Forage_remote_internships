@@ -13,8 +13,8 @@ Task 3: Data Insights and Presentation
 Using visualisations to present insights
 
 
-## Quantium Data Analytics Virtual Experience Program
-Task1: Data preparation and customer analytics
+## Quantium Data Analytics Virtual Experience Program (R)
+Task 1: Data preparation and customer analytics
 Conduct analysis on your client's transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
 
 Task 2: Experimentation and uplift testing
@@ -24,7 +24,15 @@ Task 3: Analytics and commercial application
 Use your analytics and insights from Task 1 and 2 to prepare a report for your client, the Category Manager.
 
 
-## General Electric Digital Technology Data Analytics
-Task1: Data Engineering
+## General Electric Digital Technology Data Analytics (Excel and Tableau)
+Task 1: Data Engineering
 
 Task 2: Data Visualization
+
+
+# Data@ANZ (R)
+Task 1: Exploratory Data Analysis
+Segment the dataset and draw unique insights, including visualisation of the transaction volume and assessing the effect of any outliers.
+
+Task 2: Predictive Analytics
+Explore correlations between customer attributes, build a regression and a decision-tree prediction model based on your findings.
