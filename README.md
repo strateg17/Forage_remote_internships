@@ -14,20 +14,20 @@ Using visualisations to present insights
 
 
 ## Quantium Data Analytics Virtual Experience Program (R)
-Task 1: Data preparation and customer analytics
+**Task 1: Data preparation and customer analytics**
 Conduct analysis on your client's transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
 
-Task 2: Experimentation and uplift testing
+**Task 2: Experimentation and uplift testing**
 Extend your analysis from Task 1 to help you identify benchmark stores that allow you to test the impact of the trial store layouts on customer sales.
 
-Task 3: Analytics and commercial application
+**Task 3: Analytics and commercial application**
 Use your analytics and insights from Task 1 and 2 to prepare a report for your client, the Category Manager.
 
 
 ## General Electric Digital Technology Data Analytics (Excel and Tableau)
-Task 1: Data Engineering
+**Task 1: Data Engineering**
 
-Task 2: Data Visualization
+**Task 2: Data Visualization**
 
 
 ## Data@ANZ (R)
@@ -39,14 +39,14 @@ Explore correlations between customer attributes, build a regression and a decis
 
 
 ## BCG (Python)
-Task 1: Business Understanding & Problem Framimg
+**Task 1: Business Understanding & Problem Framimg**
 Segment the dataset and draw unique insights, including visualisation of the transaction volume and assessing the effect of any outliers.
 
-Task 2: Exploratory Data Analysis
+**Task 2: Exploratory Data Analysis**
 Explore correlations between customer attributes, build a regression and a decision-tree prediction model based on your findings.
 
-Task 3: Feature Engineering 
+**Task 3: Feature Engineering** 
 
-Task 4: Modeling and Evaluation
+**Task 4: Modeling and Evaluation**
 
-Task 5: Insights and Recommendations
+**Task 5: Insights and Recommendations**
