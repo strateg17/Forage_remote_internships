@@ -36,3 +36,17 @@ Segment the dataset and draw unique insights, including visualisation of the tra
 
 Task 2: Predictive Analytics
 Explore correlations between customer attributes, build a regression and a decision-tree prediction model based on your findings.
+
+
+## BCG (Python)
+Task 1: Business Understanding & Problem Framimg
+Segment the dataset and draw unique insights, including visualisation of the transaction volume and assessing the effect of any outliers.
+
+Task 2: Exploratory Data Analysis
+Explore correlations between customer attributes, build a regression and a decision-tree prediction model based on your findings.
+
+Task 3: Feature Engineering 
+
+Task 4: Modeling and Evaluation
+
+Task 5: Insights and Recommendations
