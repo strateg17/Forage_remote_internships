@@ -3,13 +3,13 @@ The forage remote intership projects
 Virtual Internship programs replicated work at real world companies, and connect students to the companies themselves. Duratin od each program is approximately 5-6 hours, learn relevant tools and skills necessary to complete tasks that replicate an employee’s work day.
 
 ## KPMG Virtual Internship (Excel + Tableau)
-Task 1: Data Quality Assessment
+**Task 1: Data Quality Assessment**
 Assessment of data quality and completeness in preparation for analysis
 
-Task 2: Data Insights (R in R-studio)
+**Task 2: Data Insights (R in R-studio)**
 Targeting high value customers based on customer demographics and attributes.
 
-Task 3: Data Insights and Presentation
+**Task 3: Data Insights and Presentation**
 Using visualisations to present insights
 
 
@@ -40,9 +40,11 @@ Explore correlations between customer attributes, build a regression and a decis
 
 ## BCG (Python)
 **Task 1: Business Understanding & Problem Framimg**
+
 Segment the dataset and draw unique insights, including visualisation of the transaction volume and assessing the effect of any outliers.
 
 **Task 2: Exploratory Data Analysis**
+
 Explore correlations between customer attributes, build a regression and a decision-tree prediction model based on your findings.
 
 **Task 3: Feature Engineering** 
